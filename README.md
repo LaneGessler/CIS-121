@@ -1,3 +1,7 @@
 # CIS-121
 
-### Lane was here\
+### Lane was here
+# Steps to follow:
+# git add .
+# git commit -m "message goes here"
+# git push origin
