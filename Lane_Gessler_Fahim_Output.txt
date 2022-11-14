@@ -1,0 +1,4 @@
+
+The mean number of apples eaten is 6.388888888888889
+The median number of apples eaten is 6.5
+The mode number of apples eaten is 5
